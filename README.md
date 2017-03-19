@@ -1,2 +1,1 @@
-# shivarathriVR
-shivarathri festival with virtual reality effect
+# Pongal_WebVR_wishes
